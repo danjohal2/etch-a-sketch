@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 500px;
+  width: 500px;
+  margin: 25% auto;
+  border: 1px solid black;
+}
+.square {
+  height: 100%;
+  width: 100%;
+  border: 1px solid black;
+}
