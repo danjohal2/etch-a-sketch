@@ -15,3 +15,7 @@
   width: 100%;
   border: 1px solid black;
 }
+button {
+  margin-left: 50%;
+  margin-top: 20px;
+}
