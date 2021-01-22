@@ -5,9 +5,9 @@
 }
 
 .container {
-  height: 500px;
-  width: 500px;
-  margin: 25% auto;
+  height: 592px;
+  width: 592px;
+  margin: 10% auto;
   border: 1px solid black;
 }
 .square {
@@ -16,6 +16,15 @@
   border: 1px solid black;
 }
 button {
-  margin-left: 50%;
-  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  margin: 5px;
+}
+button:hover {
+  cursor: pointer;
 }
